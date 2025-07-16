@@ -1,6 +1,6 @@
 //your parameter variables go here!
 let rect_width  = 20;
-let rect_height = 20;
+let rect_height = 30;
 
 
 function setup_wallpaper(pWallpaper) {
